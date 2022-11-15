@@ -10,7 +10,7 @@ int main()
 
 	printf("Anzahl Stunden: %d\n", anzahlTage * 24 );
 	printf("Anzahl Minuten: %d\n", anzahlTage * 24 * 60);
-	printf("Anzahl Sekunden: %d\n ", anzahlTage * 24 * 60 * 60 );
+	printf("Anzahl Sekunden: %d\n ", anzahlTage * 24 * 60 * 60);
 
 	return 0;
 }
